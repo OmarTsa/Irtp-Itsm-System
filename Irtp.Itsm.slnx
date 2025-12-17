@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Irtp.Itsm.Core/Irtp.Itsm.Core.csproj" />
+  <Project Path="Irtp.Itsm.Data/Irtp.Itsm.Data.csproj" />
+  <Project Path="Irtp.Itsm.Web/Irtp.Itsm.Web.csproj" />
+</Solution>
